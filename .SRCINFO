@@ -1,0 +1,11 @@
+pkgbase = aliyun-python-sdk-ecs
+	pkgdesc = The ecs module of Aliyun Python sdk
+	pkgver = 4.19.9
+	pkgrel = 1
+	url = https://github.com/aliyun/aliyun-openapi-python-sdk/
+	arch = any
+	license = BSD
+	makedepends = python-pip
+
+pkgname = aliyun-python-sdk-ecs
+
